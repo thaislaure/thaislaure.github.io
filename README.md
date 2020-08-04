@@ -1,7 +1,7 @@
 # Thais Laure                                                     <img width="200px" height="250px" src="https://github.com/thaislaure/thaislaure.github.io/blob/master/thais.jpg">
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonada por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Ewave do Brasil**
