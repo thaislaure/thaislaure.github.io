@@ -1,4 +1,4 @@
-# Thais Laure       <img width="200px" height="300px" src="https://github.com/thaislaure/thaislaure.github.io/blob/master/thais.jpg">
+# Thais Laure                                                     <img width="200px" height="250px" src="https://github.com/thaislaure/thaislaure.github.io/blob/master/thais.jpg">
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
