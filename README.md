@@ -10,3 +10,4 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: ReactJS, Angular, C# & Typescript
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/thais-laure-76580b12a/
 | thais_laure@hotmail.com
+ <br/> :link: Site Pessoal: https://thaislaure.github.io/
